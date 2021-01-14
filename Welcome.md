@@ -14,9 +14,10 @@ for(var i = 0; i < 3; i++){
 ### fundamental
 1. Variables
 2. Data types
-3. comparison operator
-4. if esle
-5. 
+3. Templating
+4. comparison operator
+5. if esle
+6. 
 
 
 ### Study Topics
