@@ -12,9 +12,11 @@ for(var i = 0; i < 3; i++){
 ```
 
 ### fundamental
-1. Data types
-2. comparison operator
-3. Variables
+1. Variables
+2. Data types
+3. comparison operator
+4. if esle
+5. 
 
 
 ### Study Topics
