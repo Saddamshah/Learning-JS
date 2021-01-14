@@ -13,7 +13,9 @@ for(var i = 0; i < 3; i++){
 
 ### fundamental
 1. Data types
-2. Variables
+2. comparison operator
+3. Variables
+
 
 ### Study Topics
 1. Variables scope.
